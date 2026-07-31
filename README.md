@@ -99,7 +99,6 @@ Knowledge-organization tool —
 
 </div>
 
-> This animated snake needs a one-time GitHub Actions setup — instructions at the bottom of this file.
 
 <br>
 
